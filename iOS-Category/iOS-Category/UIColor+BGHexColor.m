@@ -1,9 +1,8 @@
 //
 //  UIColor+BGHexColor.m
-//  AIFCore
 //
-//  Created by yintengxiang on 14-1-27.
-//  Copyright (c) 2014年 Anjuke Inc. All rights reserved.
+//  Created by coder on 14-1-27.
+//  Copyright (c) 2014年 coder. All rights reserved.
 //
 
 #import "UIColor+BGHexColor.h"

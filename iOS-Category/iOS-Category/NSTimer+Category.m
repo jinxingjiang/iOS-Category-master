@@ -1,9 +1,8 @@
 //
 //  NSTimer+Category.m
-//  PKWSevers
 //
-//  Created by chenguangjiang on 16/6/27.
-//  Copyright © 2016年 peikua. All rights reserved.
+//  Created by coder on 16/6/27.
+//  Copyright © 2016年 coder. All rights reserved.
 //
 
 #import "NSTimer+Category.h"

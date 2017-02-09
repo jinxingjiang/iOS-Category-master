@@ -1,9 +1,9 @@
 //
 //  NSString+MD5.m
-//  PKWSevers
+//  
 //
-//  Created by peikua on 16/4/27.
-//  Copyright © 2016年 peikua. All rights reserved.
+//  Created by coder on 16/4/27.
+//  Copyright © 2016年 coder. All rights reserved.
 //
 
 #import "NSString+MD5.h"

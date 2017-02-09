@@ -2,8 +2,8 @@
 //  UIButton+Category.m
 //  haitao
 //
-//  Created by Yuen-iMac on 16/5/4.
-//  Copyright © 2016年 上海市配夸网络科技有限公司. All rights reserved.
+//  Created by coder on 16/5/4.
+//  Copyright © 2016年 coder. All rights reserved.
 //
 
 #import "UIButton+Category.h"

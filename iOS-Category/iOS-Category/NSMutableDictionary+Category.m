@@ -2,8 +2,8 @@
 //  NSMutableDictionary+Category.m
 //  iOS-Category
 //
-//  Created by 庄BB的MacBook on 16/7/29.
-//  Copyright © 2016年 BBFC. All rights reserved.
+//  Created by coder on 16/3/29.
+//  Copyright © 2016年 coder. All rights reserved.
 //
 
 #import "NSMutableDictionary+Category.h"

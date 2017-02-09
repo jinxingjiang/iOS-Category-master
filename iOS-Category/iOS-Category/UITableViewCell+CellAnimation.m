@@ -1,9 +1,9 @@
 //
 //  UITableViewCell+CellAnimation.m
-//  xyc-ios
+//  
 //
-//  Created by peikua on 16/1/19.
-//  Copyright © 2016年 peikua. All rights reserved.
+//  Created by coder on 16/1/19.
+//  Copyright © 2016年 coder. All rights reserved.
 //
 
 #import "UITableViewCell+CellAnimation.h"

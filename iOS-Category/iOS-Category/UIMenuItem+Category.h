@@ -1,9 +1,8 @@
 //
 //  UIMenuItem+Category.h
-//  PKWSevers
 //
-//  Created by chenguangjiang on 16/7/2.
-//  Copyright © 2016年 peikua. All rights reserved.
+//  Created by coder on 16/7/2.
+//  Copyright © 2016年 coder. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

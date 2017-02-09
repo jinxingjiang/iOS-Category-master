@@ -1,9 +1,9 @@
 //
 //  NSMutableArray+Category.m
-//  PKWSevers
+//  
 //
-//  Created by peikua on 16/5/25.
-//  Copyright © 2016年 peikua. All rights reserved.
+//  Created by coder on 16/5/25.
+//  Copyright © 2016年 coder. All rights reserved.
 //
 
 #import "NSMutableArray+Category.h"

@@ -1,8 +1,7 @@
 //
-//  PK-ios
 //
-//  Created by peikua on 15/9/15.
-//  Copyright (c) 2015年 peikua. All rights reserved.
+//  Created by coder on 15/9/15.
+//  Copyright (c) 2015年 coder. All rights reserved.
 //
 
 #import "NSData+Category.h"

@@ -1,9 +1,8 @@
 //
 //  UIControl+ResponseTime.m
-//  BanggoPhone
 //
-//  Created by sam on 15/10/14.
-//  Copyright © 2015年 BG. All rights reserved.
+//  Created by coder on 15/10/14.
+//  Copyright © 2015年 coder. All rights reserved.
 
 
 #import "UIControl+ResponseTime.h"
