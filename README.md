@@ -3,4 +3,4 @@
 
 以后会持续更新，可以继续关注哦！
 
-[简书地址](http://www.jianshu.com/p/68ba104b9061)
+[简书地址](http://www.jianshu.com/c/2f0d6babc005)
